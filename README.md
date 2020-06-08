@@ -1,6 +1,6 @@
 # pattern
 
-Filter different colors in an image, originally to facilitate sewing patterns
+Filter different colors in an image, originally to facilitate sewing patterns.
 
 # Original Problem
 
