@@ -12,7 +12,7 @@ So the idea came to me to make a software/website that would allow to filter the
 
 # Example
 
-The example is really bad, because because because of the shadow, the detection is not done correctly. I will change this example later. Here is a (very bad) example:
+The example is really bad, because of the shadow, the detection is not done correctly. I will change this example later. Here is a (very bad) example:
 
 Before             |  After
 :-------------------------:|:-------------------------:
